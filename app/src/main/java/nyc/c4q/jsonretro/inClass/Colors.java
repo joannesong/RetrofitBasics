@@ -1,4 +1,4 @@
-package nyc.c4q.jsonretro;
+package nyc.c4q.jsonretro.inClass;
 
 import java.util.List;
 
